@@ -74,6 +74,7 @@ El sistema evalúa automáticamente el resultado final del estudiante y muestra 
 
 <img width="287" height="346" alt="image" src="https://github.com/user-attachments/assets/7e88be41-0b78-44ba-bdda-1adb773c5b45" />
 
+
 <img width="287" height="347" alt="image" src="https://github.com/user-attachments/assets/12eebca3-830d-46e2-9bb3-1cd4132ed69f" />
 
 <img width="286" height="355" alt="image" src="https://github.com/user-attachments/assets/66225b36-cdbd-4c9a-a223-1e57697ae971" />
