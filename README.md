@@ -81,7 +81,9 @@ El sistema evalúa automáticamente el resultado final del estudiante y muestra 
 
 <img width="286" height="355" alt="image" src="https://github.com/user-attachments/assets/66225b36-cdbd-4c9a-a223-1e57697ae971" />
 
-
+Lo que entendí: 
+-----------------------------------------------------------
+El manejo de excepciones permite controlar errores sin que el programa se cierre inesperadamente. En esta práctica se utilizó Try-Catch-Finally para validar la entrada de una nota. El bloque try ejecuta el código principal, catch detecta y maneja errores como ingresar letras en lugar de números, y finally muestra un mensaje al finalizar el proceso. Esto hace que la aplicación sea más segura, estable y fácil de usar.
 
 ⚪Contexto Académico
 -----------------------------------------------------------
